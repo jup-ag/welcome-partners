@@ -1,0 +1,38 @@
+[
+  {
+    "name": "OKX",
+    "logo": "wallets/okx.png",
+    "href": "https://www.okx.com/web3"
+  },
+  {
+    "name": "Solflare",
+    "logo": "wallets/solflare.png",
+    "href": "https://solflare.com"
+  },
+  { "name": "Glow", "logo": "wallets/glow.png", "href": "https://glow.app" },
+  {
+    "name": "Phantom",
+    "logo": "wallets/phantom.png",
+    "href": "https://phantom.app"
+  },
+  {
+    "name": "Trust",
+    "logo": "wallets/trust.png",
+    "href": "https://trustwallet.com"
+  },
+  {
+    "name": "Coinbase",
+    "logo": "wallets/coinbase.png",
+    "href": "https://www.coinbase.com/wallet"
+  },
+  {
+    "name": "Frontier",
+    "logo": "wallets/frontier.png",
+    "href": "https://www.frontier.xyz"
+  },
+  {
+    "name": "Backpack",
+    "logo": "wallets/backpack.png",
+    "href": "https://backpack.app"
+  }
+]
