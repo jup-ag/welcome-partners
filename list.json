@@ -1,5 +1,12 @@
 [
   {
+    "name": "Wormhole",
+    "subname": "DeFi",
+    "tag": ["DeFi"],
+    "logo": "wormhole.svg",
+    "href": "https://wormhole.com/"
+  },
+  {
     "name": "MarginFi",
     "subname": "DeFi",
     "tag": ["DeFi"],
