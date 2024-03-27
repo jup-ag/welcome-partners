@@ -19,9 +19,6 @@ Welcome to Solana, is an initiatives to help gear curious cats coming out from t
     - `href:` URL that link to your wallet
 
 
-Here's an example of PR to add a new protocol into the `Welcome to Solana` page: [Example PR]
+Here's an example of PR to add a new protocol into the `Welcome to Solana` page: [Wormhole](https://github.com/jup-ag/welcome-partners/pull/3)
 
-Please fill up your PR description with the same format as shown in the example PR.
-
-[Example screenshot]
-
+![example-PR](/assets/welcometosolana1.jpg)
