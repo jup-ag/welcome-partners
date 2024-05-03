@@ -1,5 +1,12 @@
 [
   {
+    "name": "ISC",
+    "subname": "DeFi",
+    "tag": ["DeFi"],
+    "logo": "ISC.png",
+    "href": "https://isc.money"
+  },
+  {
     "name": "Wormhole",
     "subname": "DeFi",
     "tag": ["DeFi"],
