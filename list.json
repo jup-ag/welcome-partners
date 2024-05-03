@@ -159,5 +159,12 @@
     "tag": ["Games"],
     "logo": "defiland.png",
     "href": "https://defiland.app/"
+  },
+  {
+    "name": "GooseFX",
+    "subname": "DeFi",
+    "tag": ["DeFi"],
+    "logo": "GooseFX.png",
+    "href": "https://www.goosefx.io/"
   }
 ]
