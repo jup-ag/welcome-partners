@@ -159,5 +159,12 @@
     "tag": ["Games"],
     "logo": "defiland.png",
     "href": "https://defiland.app/"
+  },
+  {
+    "name": "PIP",
+    "subname": "Payments",
+    "tag": ["Payments"],
+    "logo": "pip.png",
+    "href": "https://www.getpip.com/"
   }
 ]
