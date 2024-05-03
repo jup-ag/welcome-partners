@@ -189,6 +189,20 @@
     "href": "https://www.getpip.com/"
   },
   {
+    "name": "Degen Coin Flip",
+    "subname": "Games",
+    "tag": ["Games"],
+    "logo": "dcf.png",
+    "href": "https://degencoinflip.com/"
+  },
+  {
+    "name": "Degen Spin",
+    "subname": "Games",
+    "tag": ["Games"],
+    "logo": "degen-spin.png",
+    "href": "https://degenspin.com/"
+  },
+  {
     "name": "GooseFX",
     "subname": "DeFi",
     "tag": ["DeFi"],
