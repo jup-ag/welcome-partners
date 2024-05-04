@@ -1,5 +1,12 @@
 [
   {
+    "name": "Birdeye",
+    "subname": "DeFi",
+    "tag": ["DeFi"],
+    "logo": "birdeye.png",
+    "href": "https://birdeye.so"
+  },
+  {
     "name": "Wormhole",
     "subname": "DeFi",
     "tag": ["DeFi"],
