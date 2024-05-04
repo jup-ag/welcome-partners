@@ -7,8 +7,13 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v1
-      - name: Validate JSON
+      - name: Validate JSON wallets
         uses: docker://orrosenblatt/validate-json-action:latest
         env:
-          INPUT_SCHEMA: /path/to/schema.json
-          INPUT_JSONS: /path/to/file.json,/path/to/another/file.json
+          INPUT_JSONS: ./wallets.json
+          INPUT_SCHEMA: ./schema.wallets.json
+      - name: Validate JSON list
+        uses: docker://orrosenblatt/validate-json-action:latest
+        env:
+          INPUT_JSONS: ./list.json
+          INPUT_SCHEMA: ./schema.list.json
