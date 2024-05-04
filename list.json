@@ -188,6 +188,7 @@
     "logo": "step.svg",
     "href": "https://step.finance/"
   },
+  {
     "name": "PIP",
     "subname": "Payments",
     "tag": ["Payments"],
