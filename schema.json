@@ -1,9 +1,10 @@
 {
-  properties: {
-    "name":{type: "string"},
-    "subname": {type: "string"},
-    "tag": {type: ["string"]},
-    "logo": {type: "string"},
-    "href": {type: "string"}
+  "type": "object",
+  "properties": {
+    "name":{"type": "string"},
+    "subname": {"type": "string"},
+    "tag": {"type": ["string"]},
+    "logo": {"type": "string"},
+    "href": {"type": "string"}
   }
 }
