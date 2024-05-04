@@ -166,5 +166,12 @@
     "tag": ["Games"],
     "logo": "defiland.png",
     "href": "https://defiland.app/"
+  },
+  {
+    "name": "io.net",
+    "subname": "DePIN",
+    "tag": ["DePIN"],
+    "logo": "ionet.png",
+    "href": "https://io.net/"
   }
 ]
