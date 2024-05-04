@@ -166,5 +166,12 @@
     "tag": ["Games"],
     "logo": "defiland.png",
     "href": "https://defiland.app/"
+  },
+  {
+    "name": "Purigotchi",
+    "subname": "Games",
+    "tag": ["Games"],
+    "logo": "purigotchi.png",
+    "href": "https://www.purigotchi.com/"
   }
 ]
