@@ -49,6 +49,13 @@
     "href": "https://www.hawksight.co/"
   },
   {
+    "name": "Pump.Fun",
+    "subname": "DeFi",
+    "tag": ["DeFi"],
+    "logo": "pumpdotfun.jpg",
+    "href": "https://pump.fun/"
+  },
+  {
     "name": "Meteora",
     "subname": "Liquidity",
     "tag": ["Liquidity"],
