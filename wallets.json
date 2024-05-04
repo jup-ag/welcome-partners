@@ -23,5 +23,10 @@
     "name": "Backpack",
     "logo": "wallets/backpack.png",
     "href": "https://backpack.app"
+  },
+  {
+    "name": "Phantom",
+    "logo": "wallets/phantom.png",
+    "href": "https://phantom.app"
   }
 ]
