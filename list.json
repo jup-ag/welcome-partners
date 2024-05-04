@@ -159,5 +159,12 @@
     "tag": ["Games"],
     "logo": "defiland.png",
     "href": "https://defiland.app/"
+  },
+  {
+    "name": "Dark",
+    "subname": "PrivateLP",
+    "tag": ["Privacy"],
+    "logo": "dark.png",
+    "href": "https://www.darkprotocol.org/"
   }
 ]
