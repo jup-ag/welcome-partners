@@ -4,6 +4,9 @@
     "subname": {"type": "string"},
     "tag": {"type": ["string"]},
     "logo": {"type": "string"},
-    "href": {"type": "string"}
+    "href": {
+      "type": "string",
+      "format": "uri"
+    }
   }
 }
