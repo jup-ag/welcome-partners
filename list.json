@@ -28,6 +28,13 @@
     "href": "https://www.marginfi.com/"
   },
   {
+    "name": "FlashTrade",
+    "subname": "DeFi",
+    "tag": ["DeFi"],
+    "logo": "flashtrade.png",
+    "href": "https://www.flash.trade/"
+  },
+  {
     "name": "Kamino",
     "subname": "DeFi",
     "tag": ["DeFi"],
