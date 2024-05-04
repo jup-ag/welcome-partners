@@ -1,7 +1,14 @@
-on: [push, pull_request]
+name: Validate JSONs
+
+on: [pull_request]
 
 jobs:
-  build:
+  verify-json-validation:
     runs-on: ubuntu-latest
-    - name: Run JSON Lint
-      run: bash <(curl -s https://raw.githubusercontent.com/CICDToolbox/json-lint/master/pipeline.sh)
+    steps:
+      - uses: actions/checkout@v1
+      - name: Validate JSON
+        uses: docker://orrosenblatt/validate-json-action:latest
+        env:
+          INPUT_SCHEMA: /path/to/schema.json
+          INPUT_JSONS: /path/to/file.json,/path/to/another/file.json
