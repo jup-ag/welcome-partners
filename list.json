@@ -7,6 +7,13 @@
     "href": "https://isc.money"
   },
   {
+    "name": "Birdeye",
+    "subname": "DeFi",
+    "tag": ["DeFi"],
+    "logo": "birdeye.png",
+    "href": "https://birdeye.so"
+  },
+  {
     "name": "Wormhole",
     "subname": "DeFi",
     "tag": ["DeFi"],
@@ -54,6 +61,13 @@
     "tag": ["DeFi"],
     "logo": "hawksight.png",
     "href": "https://www.hawksight.co/"
+  },
+  {
+    "name": "Pump.Fun",
+    "subname": "DeFi",
+    "tag": ["DeFi"],
+    "logo": "pumpdotfun.jpg",
+    "href": "https://pump.fun/"
   },
   {
     "name": "Meteora",
@@ -166,5 +180,19 @@
     "tag": ["Games"],
     "logo": "defiland.png",
     "href": "https://defiland.app/"
-  }
+  },
+  {
+    "name": "PIP",
+    "subname": "Payments",
+    "tag": ["Payments"],
+    "logo": "pip.png",
+    "href": "https://www.getpip.com/"
+  },
+  {
+    "name": "GooseFX",
+    "subname": "DeFi",
+    "tag": ["DeFi"],
+    "logo": "GooseFX.png",
+    "href": "https://www.goosefx.io/"
+  },
 ]
