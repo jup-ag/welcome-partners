@@ -1,169 +1,226 @@
 [
   {
+    "name": "Sol New",
+    "subname": "Onboarding",
+    "tag": [
+      "Onboarding"
+    ],
+    "logo": "solnew.png",
+    "href": "https://sol.new/"
+  },
+  {
     "name": "Wormhole",
     "subname": "DeFi",
-    "tag": ["DeFi"],
+    "tag": [
+      "DeFi"
+    ],
     "logo": "wormhole.svg",
     "href": "https://wormhole.com/"
   },
   {
     "name": "MarginFi",
     "subname": "DeFi",
-    "tag": ["DeFi"],
+    "tag": [
+      "DeFi"
+    ],
     "logo": "marginfi.svg",
     "href": "https://www.marginfi.com/"
   },
   {
     "name": "Kamino",
     "subname": "DeFi",
-    "tag": ["DeFi"],
+    "tag": [
+      "DeFi"
+    ],
     "logo": "kamino.png",
     "href": "https://kamino.finance/"
   },
   {
     "name": "Drift",
     "subname": "DeFi",
-    "tag": ["DeFi"],
+    "tag": [
+      "DeFi"
+    ],
     "logo": "drift.png",
     "href": "https://app.drift.trade/"
   },
   {
     "name": "Zeta",
     "subname": "DeFi",
-    "tag": ["DeFi"],
+    "tag": [
+      "DeFi"
+    ],
     "logo": "zeta.svg",
     "href": "https://www.zeta.markets/"
   },
   {
     "name": "Mango",
     "subname": "DeFi",
-    "tag": ["DeFi"],
+    "tag": [
+      "DeFi"
+    ],
     "logo": "mango.png",
     "href": "https://mango.markets/"
   },
   {
     "name": "Hawksight",
     "subname": "DeFi",
-    "tag": ["DeFi"],
+    "tag": [
+      "DeFi"
+    ],
     "logo": "hawksight.png",
     "href": "https://www.hawksight.co/"
   },
   {
     "name": "Pump.Fun",
     "subname": "DeFi",
-    "tag": ["DeFi"],
+    "tag": [
+      "DeFi"
+    ],
     "logo": "pumpdotfun.jpg",
     "href": "https://pump.fun/"
   },
   {
     "name": "Meteora",
     "subname": "Liquidity",
-    "tag": ["Liquidity"],
+    "tag": [
+      "Liquidity"
+    ],
     "logo": "meteora.svg",
     "href": "https://meteora.ag"
   },
   {
     "name": "Orca",
     "subname": "Liquidity",
-    "tag": ["Liquidity"],
+    "tag": [
+      "Liquidity"
+    ],
     "logo": "orca.svg",
     "href": "https://orca.so"
   },
   {
     "name": "Raydium",
     "subname": "Liquidity",
-    "tag": ["Liquidity"],
+    "tag": [
+      "Liquidity"
+    ],
     "logo": "raydium.png",
     "href": "https://raydium.io"
   },
   {
     "name": "Openbook",
     "subname": "Liquidity",
-    "tag": ["Liquidity"],
+    "tag": [
+      "Liquidity"
+    ],
     "logo": "openbook.png",
     "href": "https://openbookdex.com/"
   },
   {
     "name": "Sanctum",
     "subname": "Liquidity",
-    "tag": ["Liquidity"],
+    "tag": [
+      "Liquidity"
+    ],
     "logo": "sanctum.svg",
     "href": "https://www.sanctum.so/"
   },
   {
     "name": "Lifinity",
     "subname": "Liquidity",
-    "tag": ["Liquidity"],
+    "tag": [
+      "Liquidity"
+    ],
     "logo": "lifinity.png",
     "href": "https://lifinity.io/"
   },
   {
     "name": "Phoenix",
     "subname": "Liquidity",
-    "tag": ["Liquidity"],
+    "tag": [
+      "Liquidity"
+    ],
     "logo": "phoenix.svg",
     "href": "https://app.phoenix.trade/"
   },
   {
     "name": "Invariant",
     "subname": "Liquidity",
-    "tag": ["Liquidity"],
+    "tag": [
+      "Liquidity"
+    ],
     "logo": "invariant.svg",
     "href": "https://invariant.app/"
   },
   {
     "name": "Magic Eden",
     "subname": "NFT",
-    "tag": ["NFT"],
+    "tag": [
+      "NFT"
+    ],
     "logo": "magiceden.png",
     "href": "https://magiceden.io/"
   },
   {
     "name": "Tensor",
     "subname": "NFT",
-    "tag": ["NFT"],
+    "tag": [
+      "NFT"
+    ],
     "logo": "tensor.jpeg",
     "href": "https://www.tensor.trade/"
   },
   {
     "name": "Sniper",
     "subname": "NFT",
-    "tag": ["NFT"],
+    "tag": [
+      "NFT"
+    ],
     "logo": "sniper.svg",
     "href": "https://sniper.xyz/"
   },
   {
     "name": "Sphere",
     "subname": "Payments",
-    "tag": ["Payments"],
+    "tag": [
+      "Payments"
+    ],
     "logo": "sphere.svg",
     "href": "https://spherepay.co/"
   },
   {
     "name": "Helio",
     "subname": "Payments",
-    "tag": ["Payments"],
+    "tag": [
+      "Payments"
+    ],
     "logo": "helio.svg",
     "href": "https://helio.co/"
   },
   {
     "name": "Star Atlas",
     "subname": "Games",
-    "tag": ["Games"],
+    "tag": [
+      "Games"
+    ],
     "logo": "staratlas.png",
     "href": "https://staratlas.com/"
   },
   {
     "name": "Genopets",
     "subname": "Games",
-    "tag": ["Games"],
+    "tag": [
+      "Games"
+    ],
     "logo": "genopets.png",
     "href": "https://www.genopets.me/"
   },
   {
     "name": "Defi Land",
     "subname": "Games",
-    "tag": ["Games"],
+    "tag": [
+      "Games"
+    ],
     "logo": "defiland.png",
     "href": "https://defiland.app/"
   }
