@@ -175,10 +175,17 @@
     "href": "https://defiland.app/"
   },
   {
+    "name": "PIP",
+    "subname": "Payments",
+    "tag": ["Payments"],
+    "logo": "pip.png",
+    "href": "https://www.getpip.com/"
+  },
+  {
     "name": "GooseFX",
     "subname": "DeFi",
     "tag": ["DeFi"],
     "logo": "GooseFX.png",
     "href": "https://www.goosefx.io/"
-  }
+  },
 ]
