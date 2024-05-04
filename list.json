@@ -182,6 +182,13 @@
     "href": "https://defiland.app/"
   },
   {
+    "name": "Step Finance",
+    "subname": "DeFi",
+    "tag": ["DeFi"],
+    "logo": "step.svg",
+    "href": "https://step.finance/"
+  },
+  {
     "name": "PIP",
     "subname": "Payments",
     "tag": ["Payments"],

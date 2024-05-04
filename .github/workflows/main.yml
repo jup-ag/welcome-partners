@@ -17,4 +17,3 @@ jobs:
         env:
           INPUT_JSONS: ./list.json
           INPUT_SCHEMA: ./schema.list.json
-
