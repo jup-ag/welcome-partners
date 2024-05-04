@@ -4,7 +4,7 @@
     "logo": {"type": "string"},
     "href": {
       "type": "string",
-      "format": "uri"
+      "format": "url"
     }
   }
 }
