@@ -194,5 +194,12 @@
     "tag": ["DeFi"],
     "logo": "GooseFX.png",
     "href": "https://www.goosefx.io/"
+  },
+  {
+    "name": "Soundwork",
+    "subname": "NFT",
+    "tag": ["NFT"],
+    "logo": "soundwork.png",
+    "href": "https://soundwork.io/"
   }
 ]
