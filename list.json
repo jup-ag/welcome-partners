@@ -222,5 +222,12 @@
     "tag": ["DeFi"],
     "logo": "GooseFX.png",
     "href": "https://www.goosefx.io/"
+  },
+  {
+    "name": "Saber",
+    "subname": "Liquidity",
+    "tag": ["Liquidity"],
+    "logo": "Saber.png",
+    "href": "https://saberdao.io/"
   }
 ]
