@@ -229,5 +229,12 @@
     "tag": ["DeFi", "NFT"],
     "logo": "sonarwatch.svg",
     "href": "https://sonar.watch/"
+  },
+  {
+    "name": "Saber",
+    "subname": "Liquidity",
+    "tag": ["Liquidity"],
+    "logo": "Saber.png",
+    "href": "https://saberdao.io/"
   }
 ]
