@@ -229,5 +229,12 @@
     "tag": ["Liquidity"],
     "logo": "Saber.png",
     "href": "https://saberdao.io/"
+  },
+  {
+    "name": "Buddy.Link",
+    "subname": "Games",
+    "tag": ["Games"],
+    "logo": "buddylink.png",
+    "href": "https://buddy.link"
   }
 ]
