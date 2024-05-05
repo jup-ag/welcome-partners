@@ -222,5 +222,12 @@
     "tag": ["DeFi"],
     "logo": "GooseFX.png",
     "href": "https://www.goosefx.io/"
+  },
+  {
+    "name": "SolanaHub",
+    "subname": "DeFi",
+    "tag": ["DeFi"],
+    "logo": "solanahub.png",
+    "href": "https://www.solanahub.app"
   }
 ]
