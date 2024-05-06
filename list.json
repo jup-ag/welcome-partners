@@ -229,5 +229,12 @@
     "tag": ["Liquidity"],
     "logo": "saber.png",
     "href": "https://saberdao.io/"
+  },
+  {
+    "name": "Laddercaster",
+    "subname": "Games",
+    "tag": ["Games`"],
+    "logo": "laddercaster.png",
+    "href": "https://www.laddercaster.com/"
   }
 ]
