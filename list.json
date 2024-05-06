@@ -229,5 +229,12 @@
     "tag": ["Liquidity"],
     "logo": "saber.png",
     "href": "https://saberdao.io/"
+  },
+  {
+    "name": "Rain.fi",
+    "subname": "DeFi",
+    "tag": ["DeFi"],
+    "logo": "rainfi.svg",
+    "href": "https://rain.fi/"
   }
 ]
