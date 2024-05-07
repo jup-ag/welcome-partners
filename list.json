@@ -236,5 +236,12 @@
     "tag": ["DeFi"],
     "logo": "rainfi.svg",
     "href": "https://rain.fi/"
+  },
+  {
+    "name": "Solcasino.io",
+    "subname": "Games",
+    "tag": ["Games"],
+    "logo": "solcasino.png",
+    "href": "https://solcasino.io/"
   }
 ]
