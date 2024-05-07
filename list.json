@@ -229,5 +229,12 @@
     "tag": ["Liquidity"],
     "logo": "saber.png",
     "href": "https://saberdao.io/"
+  },
+  {
+    "name": "Solcasino.io",
+    "subname": "Games",
+    "tag": ["Games"],
+    "logo": "solcasino.png",
+    "href": "https://solcasino.io/"
   }
 ]
