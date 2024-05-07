@@ -224,6 +224,13 @@
     "href": "https://www.goosefx.io/"
   },
   {
+    "name": "SonarWatch",
+    "subname": "Defi",
+    "tag": ["DeFi", "NFT"],
+    "logo": "sonarwatch.svg",
+    "href": "https://sonar.watch/"
+  },
+  {
     "name": "Saber",
     "subname": "Liquidity",
     "tag": ["Liquidity"],
