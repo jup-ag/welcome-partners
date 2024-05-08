@@ -257,5 +257,12 @@
     "tag": ["NFT", "Liquidity"],
     "logo": "sharky.png",
     "href": "https://sharky.fi/"
+  },
+  {
+    "name": "Banx",
+    "subname": "DeFi",
+    "tag": ["Defi"],
+    "logo": "banx.svg",
+    "href": "https://banx.gg/"
   }
 ]
