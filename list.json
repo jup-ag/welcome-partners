@@ -260,8 +260,8 @@
   },
   {
     "name": "Solmate",
-    "subname": "Analytics",
-    "tag": ["DeFi", "NFT", "Analytics"],
+    "subname": "Defi",
+    "tag": ["DeFi", "NFT"],
     "logo": "solmate.png",
     "href":"https://solmatebot.com/"
   }
