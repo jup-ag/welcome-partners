@@ -264,5 +264,12 @@
     "tag": ["DeFi"],
     "logo": "AssetDashLogo.png",
     "href": "https://assetdash.com/"
+  },
+  {
+    "name": "Flip.gg",
+    "subname": "Games",
+    "tag": ["Games"],
+    "logo": "flipgg.png",
+    "href": "https://flip.gg/"
   }
 ]
