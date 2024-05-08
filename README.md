@@ -36,10 +36,7 @@ Here's an [example PR](https://github.com/jup-ag/welcome-partners/pull/3) to add
 
 ![example-PR](/assets/welcometosolana1.jpg)
 
-## Some things we look at
+## What we look at
 We aim to safeguard our users and provide a more efficient method to add you to the list, please indicate by commenting any of the following in the PR.
-- Community engagement by Jupiter Catdets or Twitter/X
-- Consistent/increasing count of unique users
-- Audited
-- Open sourced
-- Verifiable on-chain
+- Traction (product or social/community traction)
+- Security (OS codebase, audited, verifiable IDL)
