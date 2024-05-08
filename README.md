@@ -13,8 +13,8 @@ quick start your journey to begin exploring the Solana universe!
 
 2. Add your details into [/list.json](https://github.com/jup-ag/welcome-partners/blob/main/list.json).
    - `name:` Name of your protocol
+   - `subname:` Category of your protocol
    - `tag:` Tag for us to match to respective category
-   - `subtag:` Sub-category such as Lending or Perp to help further distinguish your product (refer to the list of tags and subtags below)
    - `logo:` The filename of your logo
    - `href:` URL that link to your protocol
    
@@ -23,12 +23,13 @@ quick start your journey to begin exploring the Solana universe!
    - `logo:` The filename of your logo
    - `href:` URL that link to your wallet
   
-### Current list of tags and subtags
-We aim to add more categories in the future.
-- DeFi: Liquid Staking, Liquidity, Lending, Perps, Options
-- NFT: Marketplace, Community, Lending
-- Games: -
-- Payments: -
+### Current list of tags
+We aim to add more categories or classification in the future.
+- DeFi
+- Liquidity
+- NFT
+- Payments
+- Games
 
 ### Example PR
 Here's an [example PR](https://github.com/jup-ag/welcome-partners/pull/3) to add a new protocol.
@@ -36,6 +37,7 @@ Here's an [example PR](https://github.com/jup-ag/welcome-partners/pull/3) to add
 ![example-PR](/assets/welcometosolana1.jpg)
 
 ## Some things we look at
+We aim to safeguard our users and provide a more efficient method to add you to the list, please indicate by commenting any of the following in the PR.
 - Community engagement by Jupiter Catdets or Twitter/X
 - Consistent/increasing count of unique users
 - Audited
