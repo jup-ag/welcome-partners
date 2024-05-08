@@ -250,5 +250,12 @@
     "tag": ["Games"],
     "logo": "solcasino.png",
     "href": "https://solcasino.io/"
+  },
+  {
+    "name": "Sharky.fi",
+    "subname": "NFT",
+    "tag": ["NFT"],
+    "logo": "sharky.png",
+    "href": "https://sharky.fi/"
   }
 ]
