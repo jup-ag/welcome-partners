@@ -224,11 +224,39 @@
     "href": "https://www.goosefx.io/"
   },
   {
+    "name": "SonarWatch",
+    "subname": "Defi",
+    "tag": ["DeFi", "NFT"],
+    "logo": "sonarwatch.svg",
+    "href": "https://sonar.watch/"
+  },
+  {
     "name": "Saber",
     "subname": "Liquidity",
     "tag": ["Liquidity"],
     "logo": "saber.png",
     "href": "https://saberdao.io/"
+  },
+  {
+    "name": "Rain.fi",
+    "subname": "DeFi",
+    "tag": ["DeFi"],
+    "logo": "rainfi.svg",
+    "href": "https://rain.fi/"
+  },
+  {
+    "name": "Solcasino.io",
+    "subname": "Games",
+    "tag": ["Games"],
+    "logo": "solcasino.png",
+    "href": "https://solcasino.io/"
+  },
+  {
+    "name": "Sharky.fi",
+    "subname": "NFT",
+    "tag": ["NFT", "Liquidity"],
+    "logo": "sharky.png",
+    "href": "https://sharky.fi/"
   },
   {
     "name": "AssetDash",
