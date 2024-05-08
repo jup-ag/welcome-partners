@@ -257,5 +257,12 @@
     "tag": ["NFT", "Liquidity"],
     "logo": "sharky.png",
     "href": "https://sharky.fi/"
+  },
+  {
+    "name": "Solmate",
+    "subname": "Defi",
+    "tag": ["DeFi", "NFT"],
+    "logo": "solmate.png",
+    "href":"https://solmatebot.com/"
   }
 ]
