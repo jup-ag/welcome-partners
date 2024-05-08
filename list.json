@@ -264,5 +264,12 @@
     "tag": ["DeFi"],
     "logo": "AssetDashLogo.png",
     "href": "https://assetdash.com/"
+  },
+  {
+    "name": "Clone Protocol",
+    "subname": "DeFi",
+    "tag": ["DeFi"],
+    "logo": "clone.svg",
+    "href": "https://clone.so/"
   }
 ]
