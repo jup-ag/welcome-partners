@@ -257,5 +257,12 @@
     "tag": ["NFT", "Liquidity"],
     "logo": "sharky.png",
     "href": "https://sharky.fi/"
+  },
+  {
+    "name": "AssetDash",
+    "subname": "DeFi",
+    "tag": ["DeFi"],
+    "logo": "AssetDashLogo.png",
+    "href": "https://assetdash.com/"
   }
 ]
