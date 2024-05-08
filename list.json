@@ -259,6 +259,13 @@
     "href": "https://sharky.fi/"
   },
   {
+    "name": "AssetDash",
+    "subname": "DeFi",
+    "tag": ["DeFi"],
+    "logo": "AssetDashLogo.png",
+    "href": "https://assetdash.com/"
+  },
+  {
     "name": "Banx",
     "subname": "DeFi",
     "tag": ["Defi"],
