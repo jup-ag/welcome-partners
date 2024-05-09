@@ -267,8 +267,8 @@
   },
   {
     "name": "Banx",
-    "subname": "DeFi",
-    "tag": ["Defi"],
+    "subname": "NFT",
+    "tag": ["NFT"],
     "logo": "banx.svg",
     "href": "https://banx.gg/"
   }
