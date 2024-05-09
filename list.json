@@ -278,5 +278,12 @@
     "tag": ["Games"],
     "logo": "flipgg.png",
     "href": "https://flip.gg/"
+  },
+  {
+    "name": "Banx",
+    "subname": "NFT",
+    "tag": ["NFT"],
+    "logo": "banx.svg",
+    "href": "https://banx.gg/"
   }
 ]
