@@ -271,5 +271,12 @@
     "tag": ["DeFi"],
     "logo": "clone.svg",
     "href": "https://clone.so/"
+  },
+  {
+    "name": "Flip.gg",
+    "subname": "Games",
+    "tag": ["Games"],
+    "logo": "flipgg.png",
+    "href": "https://flip.gg/"
   }
 ]
