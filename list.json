@@ -285,5 +285,12 @@
     "tag": ["NFT"],
     "logo": "banx.svg",
     "href": "https://banx.gg/"
+  },
+  {
+    "name": "Atlas3",
+    "subname": "NFT",
+    "tag": ["NFT"],
+    "logo": "atlas3.svg",
+    "href": "https://atlas3.io/"
   }
 ]
