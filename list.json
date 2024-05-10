@@ -285,5 +285,12 @@
     "tag": ["NFT"],
     "logo": "banx.svg",
     "href": "https://banx.gg/"
+  },
+  {
+    "name": "Famous Fox Federation",
+    "subname": "NFT",
+    "tag": ["NFT", "Games"],
+    "logo": "famous_fox_federation.png",
+    "href": "https://famousfoxes.com/"
   }
 ]
