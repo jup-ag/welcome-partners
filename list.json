@@ -285,5 +285,12 @@
     "tag": ["NFT"],
     "logo": "banx.svg",
     "href": "https://banx.gg/"
+  },
+  {
+    "name": "Moon Roll",
+    "subname": "Games",
+    "tag": ["Games"],
+    "logo": "moonroll.png",
+    "href": "https://moonroll.io/"
   }
 ]
