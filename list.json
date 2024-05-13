@@ -285,5 +285,12 @@
     "tag": ["NFT"],
     "logo": "banx.svg",
     "href": "https://banx.gg/"
+  },
+  {
+    "name": "Aurory",
+    "subname": "Games",
+    "tag": ["Games"],
+    "logo": "aurory.png",
+    "href": "https://aurory.io/"
   }
 ]
