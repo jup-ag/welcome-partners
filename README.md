@@ -23,6 +23,11 @@ quick start your journey to begin exploring the Solana universe!
    - `logo:` The filename of your logo
    - `href:` URL that link to your wallet
   
+4. **What we look at**
+   - We aim to safeguard our users and provide a more efficient method to add you to the list, please indicate by commenting any of the following in the PR.
+      - Traction (product or social/community traction)
+      - Security (OS codebase, audited, verifiable IDL)
+  
 ### Current list of tags
 We aim to add more categories or classification in the future.
 - DeFi
@@ -35,8 +40,3 @@ We aim to add more categories or classification in the future.
 Here's an [example PR](https://github.com/jup-ag/welcome-partners/pull/3) to add a new protocol.
 
 ![example-PR](/assets/welcometosolana1.jpg)
-
-## What we look at
-We aim to safeguard our users and provide a more efficient method to add you to the list, please indicate by commenting any of the following in the PR.
-- Traction (product or social/community traction)
-- Security (OS codebase, audited, verifiable IDL)
