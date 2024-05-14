@@ -28,5 +28,10 @@
     "name": "Phantom",
     "logo": "wallets/phantom.png",
     "href": "https://phantom.app"
+  },
+  {
+    "name": "Moongate",
+    "logo": "wallets/moongate.png",
+    "href": "https://moongate.one"
   }
 ]
