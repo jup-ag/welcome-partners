@@ -292,5 +292,11 @@
     "tag": ["NFT", "Games"],
     "logo": "famous_fox_federation.png",
     "href": "https://famousfoxes.com/"
+  },
+    "name": "Cryptorefills",
+    "subname": "Payments",
+    "tag": ["Payments"],
+    "logo": "cryptorefills-icon-blue.svg",
+    "href": "https://cryptorefills.com/"
   }
 ]
