@@ -292,5 +292,12 @@
     "tag": ["NFT", "Games"],
     "logo": "famous_fox_federation.png",
     "href": "https://famousfoxes.com/"
+  },
+  {
+    "name": "Divvy.bet",
+    "subname": "Games",
+    "tag": ["Games"],
+    "logo": "divvybet.png",
+    "href": "https://divvy.bet/"
   }
 ]
