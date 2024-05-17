@@ -299,5 +299,12 @@
     "tag": ["Payments"],
     "logo": "cryptorefills.png",
     "href": "https://cryptorefills.com/"
+  },
+  {
+    "name": "Divvy.bet",
+    "subname": "Games",
+    "tag": ["Games"],
+    "logo": "divvybet.png",
+    "href": "https://divvy.bet/"
   }
 ]
