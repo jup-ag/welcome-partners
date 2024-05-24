@@ -306,5 +306,19 @@
     "tag": ["Games"],
     "logo": "divvybet.png",
     "href": "https://divvy.bet/"
+  },
+  {
+    "name": "All Domains",
+    "subname": "Domains",
+    "tag": ["Domains"],
+    "logo": "alldomains.png",
+    "href": "https://alldomains.id/"
+  },
+  {
+    "name": "Solana Name Service",
+    "subname": "Domains",
+    "tag": ["Domains"],
+    "logo": "bonfida.png",
+    "href": "https://sns.id/"
   }
 ]
