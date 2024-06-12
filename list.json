@@ -307,4 +307,11 @@
     "logo": "divvybet.png",
     "href": "https://divvy.bet/"
   }
+  {
+    "name": "PrintDex",
+    "subname": "DeFi",
+    "tag": ["DeFi"],
+    "logo": "printdex.png",
+    "href": "https://printdex.io/"
+  }
 ]
