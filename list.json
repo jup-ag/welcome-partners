@@ -7,6 +7,13 @@
     "href": "https://isc.money"
   },
   {
+    "name": "Cropper",
+    "subname": "Liquidity",
+    "tag": ["Liquidity"],
+    "logo": "cropper.svg",
+    "href": "https://app.cropper.finance"
+  },
+  {
     "name": "Birdeye",
     "subname": "DeFi",
     "tag": ["DeFi"],
