@@ -313,5 +313,12 @@
     "tag": ["Games"],
     "logo": "divvybet.png",
     "href": "https://divvy.bet/"
+  },
+  {
+    "name": "Parasail",
+    "subname": "DeFi",
+    "tag": ["DeFi"],
+    "logo": "parasail.png",
+    "href": "https://www.parasail.network/"
   }
 ]
