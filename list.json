@@ -42,6 +42,13 @@
     "href": "https://www.flash.trade/"
   },
   {
+    "name": "NX Finance",
+    "subname": "DeFi",
+    "tag": ["DeFi"],
+    "logo": "nx-finance.png",
+    "href": "https://nxfinance.io/"
+  },
+  {
     "name": "Kamino",
     "subname": "DeFi",
     "tag": ["DeFi"],
