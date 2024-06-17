@@ -245,6 +245,13 @@
     "href": "https://saberdao.io/"
   },
   {
+    "name": "stabble",
+    "subname": "Liquidity",
+    "tag": ["Liquidity"],
+    "logo": "stabble.png",
+    "href": "https://stabble.org/"
+  },
+  {
     "name": "Rain.fi",
     "subname": "DeFi",
     "tag": ["DeFi"],
