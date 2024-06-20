@@ -259,6 +259,13 @@
     "href": "https://solcasino.io/"
   },
   {
+    "name": "SolVegas",
+    "subname": "Games",
+    "tag": ["Games"],
+    "logo": "solvegas.svg",
+    "href": "https://solvegas.net/"
+  },
+  {
     "name": "Sharky.fi",
     "subname": "NFT",
     "tag": ["NFT", "Liquidity"],
