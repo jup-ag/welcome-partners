@@ -1,0 +1,12 @@
+{
+  "properties": {
+    "name":{"type": "string"},
+    "subname": {"type": "string"},
+    "tag": {"type": ["string"]},
+    "logo": {"type": "string"},
+    "href": {
+      "type": "string",
+      "format": "url"
+    }
+  }
+}

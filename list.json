@@ -1,5 +1,26 @@
 [
   {
+    "name": "ISC",
+    "subname": "DeFi",
+    "tag": ["DeFi"],
+    "logo": "ISC.png",
+    "href": "https://isc.money"
+  },
+  {
+    "name": "Cropper",
+    "subname": "Liquidity",
+    "tag": ["Liquidity"],
+    "logo": "cropper.svg",
+    "href": "https://app.cropper.finance"
+  },
+  {
+    "name": "Birdeye",
+    "subname": "DeFi",
+    "tag": ["DeFi"],
+    "logo": "birdeye.png",
+    "href": "https://birdeye.so"
+  },
+  {
     "name": "Wormhole",
     "subname": "DeFi",
     "tag": ["DeFi"],
@@ -12,6 +33,13 @@
     "tag": ["DeFi"],
     "logo": "marginfi.svg",
     "href": "https://www.marginfi.com/"
+  },
+  {
+    "name": "FlashTrade",
+    "subname": "DeFi",
+    "tag": ["DeFi"],
+    "logo": "flashtrade.png",
+    "href": "https://www.flash.trade/"
   },
   {
     "name": "Kamino",
@@ -28,10 +56,10 @@
     "href": "https://app.drift.trade/"
   },
   {
-    "name": "Zeta",
+    "name": "Zeta Markets",
     "subname": "DeFi",
     "tag": ["DeFi"],
-    "logo": "zeta.svg",
+    "logo": "zeta.png",
     "href": "https://www.zeta.markets/"
   },
   {
@@ -47,6 +75,13 @@
     "tag": ["DeFi"],
     "logo": "hawksight.png",
     "href": "https://www.hawksight.co/"
+  },
+  {
+    "name": "Pump.Fun",
+    "subname": "DeFi",
+    "tag": ["DeFi"],
+    "logo": "pumpdotfun.jpg",
+    "href": "https://pump.fun/"
   },
   {
     "name": "Meteora",
@@ -159,6 +194,125 @@
     "tag": ["Games"],
     "logo": "defiland.png",
     "href": "https://defiland.app/"
+  },
+  {
+    "name": "Step Finance",
+    "subname": "DeFi",
+    "tag": ["DeFi"],
+    "logo": "step.svg",
+    "href": "https://step.finance/"
+  },
+  {
+    "name": "PIP",
+    "subname": "Payments",
+    "tag": ["Payments"],
+    "logo": "pip.png",
+    "href": "https://www.getpip.com/"
+  },
+  {
+    "name": "Degen Coin Flip",
+    "subname": "Games",
+    "tag": ["Games"],
+    "logo": "dcf.png",
+    "href": "https://degencoinflip.com/"
+  },
+  {
+    "name": "Degen Spin",
+    "subname": "Games",
+    "tag": ["Games"],
+    "logo": "degen-spin.png",
+    "href": "https://degenspin.com/"
+  },
+  {
+    "name": "GooseFX",
+    "subname": "DeFi",
+    "tag": ["DeFi"],
+    "logo": "GooseFX.png",
+    "href": "https://www.goosefx.io/"
+  },
+  {
+    "name": "SonarWatch",
+    "subname": "Defi",
+    "tag": ["DeFi", "NFT"],
+    "logo": "sonarwatch.svg",
+    "href": "https://sonar.watch/"
+  },
+  {
+    "name": "Saber",
+    "subname": "Liquidity",
+    "tag": ["Liquidity"],
+    "logo": "saber.png",
+    "href": "https://saberdao.io/"
+  },
+  {
+    "name": "Rain.fi",
+    "subname": "DeFi",
+    "tag": ["DeFi"],
+    "logo": "rainfi.svg",
+    "href": "https://rain.fi/"
+  },
+  {
+    "name": "Solcasino.io",
+    "subname": "Games",
+    "tag": ["Games"],
+    "logo": "solcasino.png",
+    "href": "https://solcasino.io/"
+  },
+  {
+    "name": "Sharky.fi",
+    "subname": "NFT",
+    "tag": ["NFT", "Liquidity"],
+    "logo": "sharky.png",
+    "href": "https://sharky.fi/"
+  },
+  {
+    "name": "AssetDash",
+    "subname": "DeFi",
+    "tag": ["DeFi"],
+    "logo": "AssetDashLogo.png",
+    "href": "https://assetdash.com/"
+  },
+  {
+    "name": "Clone Protocol",
+    "subname": "DeFi",
+    "tag": ["DeFi"],
+    "logo": "clone.svg",
+    "href": "https://clone.so/"
+  },
+  {
+    "name": "Flip.gg",
+    "subname": "Games",
+    "tag": ["Games"],
+    "logo": "flipgg.png",
+    "href": "https://flip.gg/"
+  },
+  {
+    "name": "Banx",
+    "subname": "NFT",
+    "tag": ["NFT"],
+    "logo": "banx.svg",
+    "href": "https://banx.gg/"
+  },
+  {
+    "name": "Famous Fox Federation",
+    "subname": "NFT",
+    "tag": ["NFT", "Games"],
+    "logo": "famous_fox_federation.png",
+    "href": "https://famousfoxes.com/"
+  },
+  {
+    "name": "Cryptorefills",
+    "subname": "Payments",
+    "tag": ["Payments"],
+    "logo": "cryptorefills.png",
+    "href": "https://cryptorefills.com/"
+  },
+  {
+    "name": "Divvy.bet",
+    "subname": "Games",
+    "tag": ["Games"],
+    "logo": "divvybet.png",
+    "href": "https://divvy.bet/"
   },
   {
     "name": "Sol Index",
