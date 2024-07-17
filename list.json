@@ -313,5 +313,12 @@
     "tag": ["Games"],
     "logo": "divvybet.png",
     "href": "https://divvy.bet/"
+  },
+  {
+    "name": "Sol Index",
+    "subname": "DeFi",
+    "tag": ["DeFi"],
+    "logo": "solindex.png",
+    "href": "https://www.solindex.xyz/"
   }
 ]
