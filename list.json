@@ -320,5 +320,12 @@
     "tag": ["DeFi"],
     "logo": "solindex.png",
     "href": "https://www.solindex.xyz/"
+  },
+  {
+    "name": "$ALICE",
+    "subname": "DeFi",
+    "tag": ["DeFi"],
+    "logo": "alice-oracle.png",
+    "href": "https://alice501-production.up.railway.app/"
   }
 ]
