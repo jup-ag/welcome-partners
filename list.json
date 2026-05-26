@@ -1,4 +1,10 @@
-[
+[{
+  "name": "OnixSwap",
+  "subname": "DeFi",
+  "tag": ["DeFi", "Liquidity"],
+  "logo": "onixswap.png",
+  "href": "https://swap.onix.finance"
+},
   {
     "name": "ISC",
     "subname": "DeFi",
