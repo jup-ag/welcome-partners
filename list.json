@@ -320,5 +320,12 @@
     "tag": ["DeFi"],
     "logo": "solindex.png",
     "href": "https://www.solindex.xyz/"
+  },
+  {
+    "name": "BARKcoin",
+    "subname": "DeFi",
+    "tag": ["DeFi"],
+    "logo": "barkcoin.png",
+    "href": "https://www.barkcoin.app/"
   }
 ]
